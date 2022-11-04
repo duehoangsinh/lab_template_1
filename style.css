@@ -1,0 +1,33 @@
+html,
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    margin-top: 30px;   
+}
+
+.banner-content-left p{    
+    margin-top: 5px;    
+    padding: 0px;
+    color: rgb(4, 4, 87) !important;
+}
+.banner-content-right{
+    margin-top: 20px;
+}
+.banner-content-right .text-special{
+    color: blue !important;
+}
+.video iframe{
+    width: 100%;
+    height: 450px;
+}
+.intro-learning .branch{
+    text-align: center;
+    margin: 0;
+}
+.intro-learning{
+    height: 450px;
+    margin-top: 50px;
+}
