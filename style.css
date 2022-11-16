@@ -56,3 +56,19 @@ body{
 .feature-content{
     margin-top: 40px;
 }
+.sumary h1{
+    text-align: center;
+}
+.sumary p{
+    text-align: center;
+    margin-top: 0;
+}
+.video-item i{
+    font-size: 3em;    
+}
+.best-item i{
+    font-size: 3em;
+}
+.active-item{
+    font-size: 3em;
+}
